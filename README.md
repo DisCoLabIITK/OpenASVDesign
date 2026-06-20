@@ -16,6 +16,10 @@ Default model. Higher center of gravity of electronics enclosure to prevent wave
 
 Exploded view of the default assembly.
 
+![Fabricated version](images/fabricatedASV.jpeg)
+
+Fabricated default version.
+
 ## High Rider — Hull Box
 
 📁 [`Final_Assembly_160_High_Rider_HullBox`](Final_Assembly_160_High_Rider_HullBox/)
