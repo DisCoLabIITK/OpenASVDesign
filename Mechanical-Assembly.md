@@ -123,4 +123,3 @@ Assemble the thrusters as per the instructions in the OpenThruster paper. Route 
 
 ---
 
-*Next: Electronics assembly →*
