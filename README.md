@@ -1,4 +1,4 @@
-# OpenASV 160 — Design Versions
+# OpenASV 160
 
 OpenASV 160 is an open-source, twin-hull autonomous surface vehicle (ASV). This page is a visual index of the design variants in this repository — each section pairs a rendered CAD assembly with a note on what makes that version distinct and links to the folder holding its source files. 
 
@@ -7,6 +7,8 @@ OpenASV 160 is an open-source, twin-hull autonomous surface vehicle (ASV). This 
 **See the Mechanical-Assembly.md file for assembly instructions of baseline option.**
 
 **Ardupilot param files can be found in the Adupilot_Config folder.**
+
+# OpenASV 160 — Design Versions
 
 ## Default Model (High Rider)
 
