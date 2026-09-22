@@ -18,6 +18,8 @@ This page describes the step-by-step mechanical assembly of the OpenASV twin-hul
 | 10 | 2020 aluminium extrusion | 465 mm length | 2 |
 | 11 | Epoxy resin (casting) | — | 500 ml |
 | 12 | Bond epoxy adhesive (2-part) | — | 90 g |
+| 13 | Heat Inserts | M3 × 6mm | 16 |
+| 14 | Heat Inserts **(Optional)** | M3 × 4mm | 32 |
 
 **3D-printed parts:** print the required quantities of each part from the CAD renders (front nose cones, rear nose cones, front couplers, rear couplers, vertical brackets, cable guides).
 
